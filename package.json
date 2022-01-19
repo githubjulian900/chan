@@ -6,9 +6,7 @@
     "scripts": {
         "start": "node .",
         "lint": "eslint . --ext .js",
-        "testcfg": "node scripts/verify-config.js",
-        "engines": {
-    "node": "14.x"
+        "testcfg": "node scripts/verify-config.js"
     },
     "repository": {
         "type": "git",
