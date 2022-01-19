@@ -1,12 +1,13 @@
 {
-    "name": "atlantabot",
-    "version": "4.12.0",
-    "description": "A very complete Discord bot (more than 70 commands) that uses the Discordjs API!",
-    "main": "atlanta.js",
-    "scripts": {
-        "start": "node .",
-        "lint": "eslint . --ext .js",
-        "testcfg": "node scripts/verify-config.js"
+    {
+  "name": "myapp",
+  "description": "a really cool app",
+    "main": "atlanta.js"
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  }
+}
     },
     "repository": {
         "type": "git",
